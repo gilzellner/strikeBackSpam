@@ -15,9 +15,10 @@ Response activator: generates messages to be sent and puts them in send queue to
 Matches to relevant politician and party lead as well.(Python?)
 Gets politician info from db (mysql?)	
 
-# Sender: sends messages via client devices (Python and store in Firebase?)
-Open Issues
-Where do we get a list of phone numbers for knesset members?.
+Sender: sends messages via client devices (Python and store in Firebase?)
+
+# Open Issues
+https://github.com/gilzellner/strikeBackSpam/issues
 
 
 
