@@ -1,3 +1,5 @@
+Join the [dev chat on Whatsapp](https://chat.whatsapp.com/JHQJK33hxvNFhvGcuOmDkp)
+
 # Spec
 An app (iphone+android) where users can easily report an SMS message as “Election spam”, and indicate the relevant party. When a user does this, a counter SMS is sent to the party leaders / knesset members from the user’s own device.
 
